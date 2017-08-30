@@ -1,0 +1,2 @@
+parameters:
+  dummy_param1: '%env(DATABASE_URL)%'
